@@ -1,0 +1,43 @@
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+header {
+  background-color: #103a3a;
+  width: 100%;
+}
+
+.main {
+  width: 75%;
+  max-width: 750px;
+  padding: 3rem 4rem;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 1em;
+  padding-bottom: 2em;
+}
+
+button {
+  background-color: aqua;
+  font-weight: 700;
+  color: #103a3a;
+  border-radius: 25px;
+  padding: 1em 3em;
+  border: none;
+}
+/*# sourceMappingURL=styles.css.map */
