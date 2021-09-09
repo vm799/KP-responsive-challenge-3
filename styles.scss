@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+header {
+  background-color: rgb(16, 58, 58);
+  width: 100%;
+}
+
+main {
+  width: 75%;
+  padding: 2rem;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 1em;
+}
+button {
+  background-color: aqua;
+  font-weight: 700;
+  color: rgb(16, 58, 58);
+  border-radius: 25px;
+  padding: 1em 3em;
+}
